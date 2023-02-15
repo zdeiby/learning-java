@@ -12,7 +12,5 @@ public class TestControlBonificacion {
 
         controlBonificacion.registrarSalario(diego);
         controlBonificacion.registrarSalario(jimena);
-
-
     }
 }
