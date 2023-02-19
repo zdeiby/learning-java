@@ -1,5 +1,7 @@
 package InterfaceList;
 
+import javax.swing.Action;
+
 public class clase {
     private String nombre;
 
@@ -18,4 +20,6 @@ public class clase {
     public String toString() {
         return this.nombre;
     }
+
+   
 }

@@ -11,5 +11,7 @@ public class clase6 {
         cursos.add(curso1);
     
         System.out.println(cursos.get(0).getClaseList());
+
+     
 }
 }
