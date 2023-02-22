@@ -15,13 +15,13 @@ public class Flujo {
         System.out.println("inicio metodo2");
         for(int i =1; i<= 5; i++){
           System.out.println(i);
-         try{
+         /*try{
             String numero =null;
             System.out.println(numero);
             numero.toString();
           }catch(NullPointerException e){
             System.out.println("error");
-         }
+         }*/
         }
         System.out.println("fin metodo2");
 
