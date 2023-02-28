@@ -3,6 +3,8 @@ package List;
 import java.util.ArrayList;
 import java.util.List;
 
+import Maps.Alumno;
+
 public class Curso {
     private String nombre;
     private int tiempo;
@@ -47,5 +49,10 @@ public class Curso {
     @Override
     public String toString() {
         return this.nombre;
+    }
+    public void add(Alumno alumno1) {
+    }
+    public Object getAlumnos() {
+        return null;
     }
 }
